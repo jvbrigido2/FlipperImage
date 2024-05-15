@@ -8,10 +8,22 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of .NET SDK.
 - You have a basic understanding of C# programming language.
 
-## Installing Image Rotator
+## Installing FlipperImage
 
 To install Image Rotator, follow these steps:
 
-Windows:
 ```bash
 git clone https://github.com/jvbrigido2/FlipperImage.git
+```
+Navigate to the newly cloned directory using the command cd FlipperImage
+
+Build the project using the command:
+
+```bash
+dotnet build
+```
+Run the compiled project using the command:
+
+```bash
+dotnet run
+```
