@@ -15,7 +15,7 @@ To install Image Rotator, follow these steps:
 ```bash
 git clone https://github.com/jvbrigido2/FlipperImage.git
 ```
-Navigate to the newly cloned directory using the command cd FlipperImage
+Navigate to the newly cloned directory using the command cd FliperImage
 
 Build the project using the command:
 
